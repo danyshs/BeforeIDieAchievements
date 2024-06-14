@@ -852,5 +852,18 @@
   </a>
 </td>
 <!-- End of column-3 -->
+
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/danyshs">
+    <img
+      src="https://avatars.githubusercontent.com/u/170024365?s=400&u=2b633208fdbcdef66ac662db9d688f929715bf66&v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Danysh S</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
